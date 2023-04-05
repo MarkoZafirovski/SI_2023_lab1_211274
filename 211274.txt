@@ -1,0 +1,15 @@
+git init = inicijalizirav prazen repozitorium 
+
+notepad README.md = kreirav datoteka vo lokalen repozitorium 
+
+git remote add origin "link" = povrzan lokalen i oddalechen repozitorium 
+
+git add README.md = dodadov file 
+
+git commit -m "Initial commit" = go oblekov fileot 
+
+git add SILab1.java = dodadov nov java file 
+
+git commit -m "Add java class" = go oblekov java fileot
+
+git push --all = gi sinhronizirav lokalniot i glavniot repozitorium
